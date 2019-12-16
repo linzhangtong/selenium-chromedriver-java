@@ -12,9 +12,9 @@ java -jar screenshot-auto-0.0.1-SNAPSHOT.jar ${url} ${chromedriver_path} ${save_
 
 **${save_path}:Save to the folder path**
 
-#网页截图和切割图片
+# 网页截图和切割图片
 **基于java语言，还有selenium和chromedriver实现网页截图和切割图片**
-#使用方法
+# 使用方法
 1. maven打包
 2.执行脚本如下
 ```shell script
